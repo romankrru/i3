@@ -93,8 +93,8 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 set $workspace1 "1: Main  "
-set $workspace2 "| 2: Terminals  "
-set $workspace7 "| 7: Telegram  "
+set $workspace2 "2: Terminals  "
+set $workspace7 "7: Telegram  "
 
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
